@@ -5,9 +5,9 @@
   <subtitle>我自由心向天笑</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/piaoying/piaoying.github.io/"/>
+  <link href="https://piaoying.github.io/"/>
   <updated>2019-12-30T15:07:10.290Z</updated>
-  <id>https://github.com/piaoying/piaoying.github.io/</id>
+  <id>https://piaoying.github.io/</id>
   
   <author>
     <name>韩达</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/piaoying/piaoying.github.io/2019/12/28/hello-world/"/>
-    <id>https://github.com/piaoying/piaoying.github.io/2019/12/28/hello-world/</id>
+    <link href="https://piaoying.github.io/2019/12/28/hello-world/"/>
+    <id>https://piaoying.github.io/2019/12/28/hello-world/</id>
     <published>2019-12-28T05:39:25.188Z</published>
     <updated>2019-12-30T15:07:10.290Z</updated>
     
@@ -27,7 +27,7 @@
     
       
       
-        &lt;!-- build time:Wed Jan 01 2020 00:03:30 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noo
+        &lt;!-- build time:Wed Jan 01 2020 00:05:03 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noo
       
     
     </summary>
